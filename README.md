@@ -1,5 +1,5 @@
 #  read me
-read my [rentry](https://rentry.co/lampost)
+read my [rentry](https://rentry.co/lampost).
 
 
 
